@@ -1,0 +1,283 @@
+/* 全局样式 */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+/* 导航栏样式 */
+.navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    height: 80px;
+}
+
+.logo h1 {
+    margin: 0;
+    color: #2c3e50;
+    font-size: 1.5rem;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #2c3e50;
+}
+
+/* 内容区域的顶部边距，避免被导航栏遮挡 */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 100px 20px 20px; /* 增加顶部边距 */
+}
+
+/* 个人简介部分 */
+.profile-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.profile-info h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+/* 生平简介样式 */
+.biography {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.biography h3 {
+    color: #2c3e50;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+/* 内容块通用样式 */
+.section {
+    margin-bottom: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.section h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+/* 突出显示的文本 */
+.highlight {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+/* 出版物样式 */
+.publication-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.publication-title {
+    color: #800000;
+    text-decoration: none;
+}
+
+.publication-title:hover {
+    text-decoration: underline;
+}
+
+/* 卡片容器样式 */
+.card-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* 卡片样式 */
+.card {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+    color: #2c3e50;
+    margin-top: 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.card ul {
+    padding-left: 20px;
+}
+
+.card ul li {
+    margin-bottom: 10px;
+}
+
+.card a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+/* 针对内容较多的卡片，使用滚动条 */
+.scrollHeight {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+/* 页脚样式 */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+    color: #7f8c8d;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    /* 移动设备上的个人简介布局 */
+    .profile-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .profile-img {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+
+    /* 移动设备上的导航栏布局 */
+    .nav-container {
+        flex-direction: column;
+    }
+    .nav-links {
+        margin-top: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .nav-links li {
+        margin: 5px 10px;
+    }
+}
+
+/* News 模块样式 */
+#news {
+    margin-bottom: 30px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+#news h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+.news-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.news-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 25px;
+    position: relative;
+}
+
+.news-icon {
+    position: absolute;
+    left: 0;
+    color: blue;
+    font-size: 1.2em;
+}
+
+.news-date {
+    display: inline-block;
+    background-color: #f0f0f0;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #333;
+    margin-right: 10px;
+}
+
+.news-highlight {
+    font-weight: bold;
+}
+
+.award-highlight {
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+.news-image {
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.news-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
