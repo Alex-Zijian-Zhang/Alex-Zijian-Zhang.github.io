@@ -1,4 +1,5 @@
 Authors,Title,JournalFullName,JournalShortName,Link,CCF,Type,PublicationDetail
+"Xuyang Liu and Zijian Zhang* and Zhen Li and Peng Jiang and Yajie Wang and Meng Li* and Liehuang Zhu","The Deferred Byzantine Generals Problem","IEEE Transactions on Information Forensics and Security","TIFS","","CCF A","Journal","Accepted"
 "Zhaoqi Wang and Zijian Zhang* and Zhen Li and Yan Wu and Ye Liu and Meng Li * and Xin Li and Yong Liu and Jincheng An and Wei Liang and Liehuang Zhu","Resisting Poisoning Attacks in Federated Learning via Dual-Domain Distance and Trust Assessment","IEEE Transactions on Information Forensics and Security","TIFS","","CCF A","Journal","Accepted"
 "Xuyang Liu and Zijian Zhang* and Zhen Li and Xin Lu and Meng Li* and Lei Xu and Meng Ao and Liehuang Zhu","Group BFT: Two-Round BFT Protocols via Replica Grouping","IEEE Transactions on Dependable and Secure Computing","TDSC","","CCF A","Journal","Accepted"
 "Liehuang Zhu and Zijian Zhang and Chang Xu","Secure and Privacy-Preserving Data Communication in Internet of Things","Springer","","","","Book",""
