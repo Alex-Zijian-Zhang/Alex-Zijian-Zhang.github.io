@@ -383,13 +383,30 @@
         .then(publicationsData => {
             // 解析 CSV 数据
             const lines = publicationsData.trim().split('\n');
-            const headers = lines[0].split(',');
+            const headers = lines[0].split(',').map(h => h.trim().replace(/\r/g, '')); // 清理headers
             const monographs = [];
             const papers = [];
 
             for (let i = 1; i < lines.length; i++) {
                 const line = lines[i];
-                const parts = parseCSVLine(line);
+                
+                // 简单的CSV解析 - 分割最后的字段
+                const parts = [];
+                let current = '';
+                let inQuotes = false;
+                
+                for (let j = 0; j < line.length; j++) {
+                    const char = line[j];
+                    if (char === '"') {
+                        inQuotes = !inQuotes;
+                    } else if (char === ',' && !inQuotes) {
+                        parts.push(current.replace(/^"|"$/g, '').trim().replace(/\r/g, '')); // 移除首尾引号和回车符
+                        current = '';
+                    } else {
+                        current += char;
+                    }
+                }
+                parts.push(current.replace(/^"|"$/g, '').trim().replace(/\r/g, '')); // 添加最后一个字段并清理
 
                 if (parts.length < headers.length) {
                     console.warn('Skipping invalid publication entry:', line);
@@ -410,7 +427,7 @@
                     papers.push(record);
                 }
             }
-7
+
             // 渲染 Monograph
             renderPublications(monographs, document.getElementById('monograph-list'), true);
             // 渲染 Papers
@@ -426,12 +443,23 @@
         const result = [];
         let inQuotes = false;
         let currentField = '';
-
-        for (const char of line) {
-            if (char === '"' && !inQuotes) {
-                inQuotes = true;
-            } else if (char === '"' && inQuotes) {
-                inQuotes = false;
+        
+        for (let i = 0; i < line.length; i++) {
+            const char = line[i];
+            const nextChar = line[i + 1];
+            
+            if (char === '"') {
+                if (!inQuotes) {
+                    // 开始引号
+                    inQuotes = true;
+                } else if (nextChar === '"') {
+                    // 转义的引号 ""
+                    currentField += '"';
+                    i++; // 跳过下一个引号
+                } else {
+                    // 结束引号
+                    inQuotes = false;
+                }
             } else if (char === ',' && !inQuotes) {
                 result.push(currentField);
                 currentField = '';
@@ -461,6 +489,16 @@
         for (let i = 0; i < total; i++) {
             const pub = publications[i];
             const num = i+1;
+            
+            // 构建PDF链接
+            let pdfLink = '';
+            if (pub.PDFFile) {
+                const pdfFileName = pub.PDFFile.trim();
+                if (pdfFileName !== '') {
+                    pdfLink = ` <a href="papers/${pdfFileName}" target="_blank" style="font-weight:bold;color:#d00;">[PDF]</a>`;
+                }
+            }
+            
             html += `
                 <div class="publication-item">
                     <p>
@@ -471,7 +509,7 @@
                         ${pub.JournalFullName ? `, <strong>${pub.JournalFullName}</strong>` : ''}
                         ${!isMonograph && pub.PublicationDetail ? `, ${pub.PublicationDetail}`: ''}
                         ${!isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>` : ''}
-                        ${isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>` : ''}
+                        ${isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>` : ''}${pdfLink}
                     </p>
                 </div>
             `;
