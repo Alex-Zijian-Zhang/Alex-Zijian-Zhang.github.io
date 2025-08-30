@@ -504,12 +504,10 @@
                     <p>
                         <span style="font-weight:bold;">[${num}]</span>
                         ${!isMonograph && pub.JournalShortName ? `<span style="font-weight:bold;color:#800;">[${pub.JournalShortName}]</span>` : ''} 
-                        ${pub.Authors},
-                        <a href="${pub.Link}" class="publication-title">${pub.Title}</a>
-                        ${pub.JournalFullName ? `, <strong>${pub.JournalFullName}</strong>` : ''}
-                        ${!isMonograph && pub.PublicationDetail ? `, ${pub.PublicationDetail}`: ''}
-                        ${!isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>` : ''}
-                        ${isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>` : ''}${pdfLink}
+                        ${pub.Authors}.
+                        <a href="${pub.Link}" class="publication-title">${pub.Title}</a>${pub.JournalFullName ? `. <strong>${pub.JournalFullName}</strong>` : ''}${!isMonograph && pub.PublicationDetail ? `, ${pub.PublicationDetail}.`: ''}
+                        ${!isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>`: ''}
+                        ${isMonograph && pub.CCF ? `<span style="font-weight:bold;">(${pub.CCF})</span>`: ''}${pdfLink}
                     </p>
                 </div>
             `;
