@@ -1091,6 +1091,42 @@
                 });
             });
         });
+
+        // 滚动监听 - 更新导航菜单的 active 状态
+        window.addEventListener('scroll', function () {
+            const sections = document.querySelectorAll('section[id]');
+            const navLinks = document.querySelectorAll('.nav-menu a[href^="#"]');
+
+            let currentActiveId = '';
+
+            // 检查是否滚动到了页面底部（距离底部 500px 内）
+            const isNearBottom = window.pageYOffset + window.innerHeight >= document.documentElement.scrollHeight - 500;
+
+            if (isNearBottom) {
+                // 页面底部时，激活最后一个 section
+                const lastSection = sections[sections.length - 1];
+                currentActiveId = lastSection.getAttribute('id');
+            } else {
+                // 否则找所有已滚过的section中，offsetTop最大的（最近的）
+                let maxOffsetTop = -1;
+                sections.forEach(section => {
+                    const sectionTop = section.offsetTop;
+
+                    if (window.pageYOffset + 150 >= sectionTop && sectionTop > maxOffsetTop) {
+                        maxOffsetTop = sectionTop;
+                        currentActiveId = section.getAttribute('id');
+                    }
+                });
+            }
+
+            // 更新导航菜单的 active 类
+            navLinks.forEach(link => {
+                link.classList.remove('active');
+                if (link.getAttribute('href') === '#' + currentActiveId) {
+                    link.classList.add('active');
+                }
+            });
+        });
     </script>
 </body>
 
