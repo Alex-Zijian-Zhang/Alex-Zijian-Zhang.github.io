@@ -651,6 +651,8 @@ button:focus-visible {
 .supervisor-info {
     color: var(--accent-color);
     font-size: 0.78rem;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .person-tag:hover {
