@@ -1,0 +1,93 @@
+{
+  "openPositions": {
+    "title": "Open Positions",
+    "description": "Looking for self-motivated Ph.D. and master students to join my group. Senior undergraduate students are also welcome. Please email your CV to zhangzijian@bit.edu.cn.",
+    "email": "zhangzijian@bit.edu.cn"
+  },
+  "items": [
+    {
+      "year": "2026",
+      "date": "Apr. 2026",
+      "text": "Congratulations to Zhiyuan's paper \"HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing\" accepted by TIFS.",
+      "venue": "TIFS"
+    },
+    {
+      "year": "2026",
+      "date": "Jan. 2026",
+      "text": "Congratulations to Zhaoqi's paper \"Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework\" accepted by WWW.",
+      "venue": "WWW"
+    },
+    {
+      "year": "2025",
+      "date": "Dec. 2025",
+      "text": "Congratulations to Xuyang's paper \"Hydra: Support Dynamic BFT with Weaker Assumptions and Explicit Request Handling\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2025",
+      "date": "Dec. 2025",
+      "text": "Congratulations to Xuyang's paper \"Reputation-Based Leader Election under Partial Synchrony: Towards a Protocol-Independent Abstraction with Enhanced Guarantees \" accepted by IEEE INFOCOM.",
+      "venue": "IEEE INFOCOM"
+    },
+    {
+      "year": "2025",
+      "date": "Nov. 2025",
+      "text": "Congratulations to Yan Wu's paper \"Unveiling Ethereum Mixing Services Using Enhanced Graph Structure Learning\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2025",
+      "date": "Oct. 2025",
+      "text": "Congratulations to Zhiyuan's paper \"SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis\" accepted by ACM TOSEM.",
+      "venue": "ACM TOSEM"
+    },
+    {
+      "year": "2025",
+      "date": "Sept. 2025",
+      "text": "Paper \"Trust in a Decentralized World: Data Governance from Faithful, Private, Verifiable, and Traceable Data Feeds\" collaborated with Hefei University of Technology accepted by IEEE TIFS.",
+      "venue": "IEEE TIFS"
+    },
+    {
+      "year": "2025",
+      "date": "August. 2025",
+      "text": "Paper \"Threshold Signatures with Verifiably Timed Combining and Message-Dependent Tracing\" collaborated with Hefei University of Technology accepted by IEEE TIFS.",
+      "venue": "IEEE TIFS"
+    },
+    {
+      "year": "2025",
+      "date": "Aug. 2025",
+      "text": "Congratulations to Zhiyuan's paper \"Advanced Smart Contract Vulnerability Detection via LLM-Powered Multi-Agent Systems\" accepted by IEEE TSE.",
+      "venue": "IEEE TSE"
+    },
+    {
+      "year": "2025",
+      "date": "July. 2025",
+      "text": "Congratulations to Xuyang's paper \"The Deferred Byzantine Generals Problem\" accepted by IEEE TIFS.",
+      "venue": "IEEE TIFS"
+    },
+    {
+      "year": "2025",
+      "date": "July. 2025",
+      "text": "Congratulations to Zhaoqi's paper \"Resisting Poisoning Attacks in Federated Learning via Dual-Domain Distance and Trust Assessment\" accepted by IEEE TIFS.",
+      "venue": "IEEE TIFS"
+    },
+    {
+      "year": "2025",
+      "date": "June. 2025",
+      "text": "Congratulations to Xuyang's paper \"Group BFT: Two-Round BFT Protocols via Replica Grouping\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2025",
+      "date": "June. 2025",
+      "text": "Paper \"S-RAG: A Novel Audit Framework for Detecting Unauthorized Use of Personal Data in RAG Systems\" collaborated with University of Auckland accepted by ACL.",
+      "venue": "ACL"
+    },
+    {
+      "year": "2025",
+      "date": "June. 2025",
+      "text": "Congratulations to Xuyang's paper \"ABSE: Adaptive Baseline Score-based Election for Leader-based BFT Systems\" accepted by IEEE TPDS.",
+      "venue": "IEEE TPDS"
+    }
+  ]
+}

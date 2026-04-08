@@ -1,0 +1,933 @@
+{
+  "groups": [
+    {
+      "title": "Current Ph.D. Students",
+      "items": [
+        {
+          "name": "Yan Wu",
+          "year": "2020",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhenyu Guo",
+          "year": "2020",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Jiahang Sun",
+          "year": "2020",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Hao Sun",
+          "year": "2020",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhiyuan Wei",
+          "year": "2021",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhibo Xing",
+          "year": "2021",
+          "meta": "@UoA(Dual PhD)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Xiangbo Yuan",
+          "year": "2021",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhen Li",
+          "year": "2022",
+          "meta": "@UoA(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Xuyang Liu",
+          "year": "'22",
+          "meta": "@UoA(Dual PhD)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Simeng Bai",
+          "year": "2022",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xi Chen",
+          "year": "2023",
+          "meta": "@UoA(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Jiaqi Gao",
+          "year": "2023",
+          "meta": "@NTU(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/ntu-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Yitong Chen",
+          "year": "2023",
+          "meta": "@UoA(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Zilve Fan",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yangnan Guo",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xingkai Kang",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xianhao Zhang",
+          "year": "2024",
+          "meta": "@UoA(Visiting Phd)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Wenjin Yang",
+          "year": "2024",
+          "meta": "@UoA(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Zhaoqi Wang",
+          "year": "2024",
+          "meta": "@UoA(Visiting Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Yifan Wang",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yihan Wang",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Pengbo Wang",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Ziang Yang",
+          "year": "2024",
+          "meta": "@UoA(Dual Student)",
+          "supervisor": "",
+          "destination": "",
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
+        },
+        {
+          "name": "Yutong Zhao",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Chen Yan",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Qi You",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        }
+      ]
+    },
+    {
+      "title": "Current Master Students",
+      "items": [
+        {
+          "name": "Yunting Li",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xiaoxuan Yang",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Bochao Li",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Aohang Liu",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xinyue Zhang",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Haibo Sun",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yinghao Tang",
+          "year": "2023",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xiaoxin Huang",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xun Zhang",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Youyi Chen",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Kun Zheng",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Qi He",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Linfeng Wu",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "RongChuan Hu",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shiyu Mu",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Feng Hu",
+          "year": "2024",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yongxuan Li",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shuyu Ji",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Mingzhi Gao",
+          "year": "2025",
+          "meta": "",
+          "supervisor": "",
+          "destination": "",
+          "logo": "",
+          "logoAlt": ""
+        }
+      ]
+    },
+    {
+      "title": "Alumni (Ph.D.)",
+      "items": [
+        {
+          "name": "Meng Li",
+          "year": "",
+          "meta": "2019",
+          "supervisor": "co-supervisor",
+          "destination": "→ Prof. @ Hefei University of Technology",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yiwei Liu",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Administration of Science. Technology and Industry for National Defense",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Jialing He",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "co-supervisor",
+          "destination": "→ Lecture @ Chongqing University",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Hao Yin",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "co-supervisor",
+          "destination": "→ National Internet Emergency Center",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xin Lu",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Radio Regulation of China",
+          "logo": "",
+          "logoAlt": ""
+        }
+      ]
+    },
+    {
+      "title": "Alumni (Master)",
+      "items": [
+        {
+          "name": "Yan Bai",
+          "year": "",
+          "meta": "2015",
+          "supervisor": "",
+          "destination": "→ Bank of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Hasan",
+          "year": "",
+          "meta": "2015",
+          "supervisor": "",
+          "destination": "→ University of Missouri-Kansas City",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Junhao Yang",
+          "year": "",
+          "meta": "2016",
+          "supervisor": "",
+          "destination": "→ China Merchants Bank",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Wanli Yang",
+          "year": "",
+          "meta": "2016",
+          "supervisor": "",
+          "destination": "→ First Research Institute of the Ministry of Public Security of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shiqiang Chen",
+          "year": "",
+          "meta": "2016",
+          "supervisor": "",
+          "destination": "→ China Electronics Cyberspace Great Wall Co.,Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Nan Sun",
+          "year": "",
+          "meta": "2017",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Railway Economic Planning Research Institute",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Chengcheng Jin",
+          "year": "",
+          "meta": "2017",
+          "supervisor": "",
+          "destination": "→ China Aerospace Science and Industry Corporation Limited",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Mingxin Chen",
+          "year": "",
+          "meta": "2017",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Minsheng Banking Corp., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Angge Tong",
+          "year": "",
+          "meta": "2017",
+          "supervisor": "",
+          "destination": "→ Tencent",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Chen Xu",
+          "year": "",
+          "meta": "2017",
+          "supervisor": "",
+          "destination": "→ Baidu",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhongxi Zhan",
+          "year": "",
+          "meta": "2018",
+          "supervisor": "",
+          "destination": "→ Contract Student",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Wenqiang Cao",
+          "year": "",
+          "meta": "2018",
+          "supervisor": "",
+          "destination": "→ Baidu",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Huishan Bian",
+          "year": "",
+          "meta": "2018",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Merchants Bank",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Qi Zhou",
+          "year": "",
+          "meta": "2019",
+          "supervisor": "",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhesi Zhu",
+          "year": "",
+          "meta": "2019",
+          "supervisor": "",
+          "destination": "→ Contract Student",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Pengchuan Su",
+          "year": "",
+          "meta": "2019",
+          "supervisor": "",
+          "destination": "→ Shenzhen Shupeng Technology Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Congyu Huang",
+          "year": "",
+          "meta": "2020",
+          "supervisor": "",
+          "destination": "→ Tencent",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Weilie Liu",
+          "year": "",
+          "meta": "2020",
+          "supervisor": "",
+          "destination": "→ Contract Student",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xinyi Li",
+          "year": "",
+          "meta": "2020",
+          "supervisor": "",
+          "destination": "→ China Everbright Bank Co., Ltd",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhengjia Zhu",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "co-supervisor",
+          "destination": "→ Kuaishou",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Haotian Cao",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "co-supervisor",
+          "destination": "→ Alibaba",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Jiasheng Li",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "co-supervisor",
+          "destination": "→ Tencent",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Caifei Shen",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Construction Bank",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shaoyuan Liu",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Siyu Zhang",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "",
+          "destination": "→ Agricultural Bank of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Rui Jin",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "",
+          "destination": "→ DiDi",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Kaibin Wan",
+          "year": "",
+          "meta": "2021",
+          "supervisor": "",
+          "destination": "→ Huan Li Culture Communication (Shanghai) Co., Ltd. (Disney Hotstar)",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yang Yu",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "",
+          "destination": "→ Ant (Hangzhou) Information Technology Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhouyu Zhang",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "co-supervisor",
+          "destination": "→ Industrial Bank Co., Ltd",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Minxian Wang",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "",
+          "destination": "→ Bank of Beijing",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Wencong Liu",
+          "year": "",
+          "meta": "2022",
+          "supervisor": "",
+          "destination": "→ Alibaba",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Jiaqi Zhang",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "co-supervisor",
+          "destination": "→ Aerospace Fourth Academy Beijing Control And Electronic Technology Research Institute",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Defeng Gao",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "",
+          "destination": "→ Academy of Chinese weapon science",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shaochen Lin",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "",
+          "destination": "→ State Grid Corporation of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Shuqi Wang",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "",
+          "destination": "→ China Life",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yuming Tang",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "",
+          "destination": "→ Shenzhen Zhiling Haina Technology Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yitian Zhang",
+          "year": "",
+          "meta": "2023",
+          "supervisor": "",
+          "destination": "→ Shenwan Hongyuan Securities Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Tianyao Pan",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Galaxy Securities Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Qing Wei",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "co-supervisor",
+          "destination": "→ Contract Student",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xin Zhao",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Grid Corporation of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Tongzhou Shen",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Grid Corporation of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Kaiyu Feng",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "",
+          "destination": "→ ByteDance",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Lei Qiu",
+          "year": "",
+          "meta": "2024",
+          "supervisor": "",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yin Lei",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "co-supervisor",
+          "destination": "→ Beijing No. 8 Middle School",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xingyu Yang",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "co-supervisor",
+          "destination": "→ Peking University",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Teng Ma",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "co-supervisor",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Qingyu Wei",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "co-supervisor",
+          "destination": "→ Alibaba",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Cuiting Guo",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "co-supervisor",
+          "destination": "→ Tencent",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Chengyi Li",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "",
+          "destination": "→ Tencent",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Haotian Zhang",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Guoqiang Zhang",
+          "year": "",
+          "meta": "2025",
+          "supervisor": "",
+          "destination": "→ Fudan University",
+          "logo": "",
+          "logoAlt": ""
+        }
+      ]
+    }
+  ]
+}

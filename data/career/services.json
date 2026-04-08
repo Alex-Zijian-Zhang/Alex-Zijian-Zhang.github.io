@@ -1,0 +1,22 @@
+{
+  "membership": [
+    "CCF Blockchain Committee Member",
+    "CAAI Intelligent Info. Network Member",
+    "CCF Senior Member",
+    "IEEE Senior Member"
+  ],
+  "editorialBoard": [
+    "Associate Editor, IEEE TIFS",
+    "Associate Editor, IEEE TDSC"
+  ],
+  "conferenceService": [
+    {
+      "label": "PC Member",
+      "content": "IEEE HPCC 2025,EAI CollaborateCom 2025, EAI CollaborateCom 2024, EAI CollaborateCom 2023, EAI CollaborateCom 2022, Globecom CISS 2022, Globecom CISS 2021, EAI CollaborateCom 2020, BSCI 2020, INFOCOM Edgeblock 2020, Globecom CISS 2020, IEEE GCC 2019, EAI CollaborateCom 2019, AGERS 2019, Globecom CISS 2019, IEEE ICC CQRM 2018, Globecom CISS 2018, COMNETSAT 2018, AGERS 2018, Globecom CISS 2017."
+    },
+    {
+      "label": "Reviewer",
+      "content": "ICLR 2026, AAAI 2026, AAAI 2025, IJCAI 2025, NeurIPS 2025, NeurIPS 2024, ICML 2025, IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Mobile Computing (TMC), IEEE/ACM Transactions on Networking (ToN),IEEE Transactions on Vehicular Technology (TVT), Future Generation Computer Systems (FGCS), IEEE Internet of Things Journal (IoTJ), IEEE Transactions on Network Science and Engineering (TNSE)"
+    }
+  ]
+}

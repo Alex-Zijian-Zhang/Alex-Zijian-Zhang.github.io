@@ -33,7 +33,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Merriweather', serif;
-    background-color: var(--bg-color);
+    background:
+        radial-gradient(circle at 10% 0%, #e0ecff 0, rgba(224, 236, 255, 0) 30%),
+        radial-gradient(circle at 95% 15%, #f0f9ff 0, rgba(240, 249, 255, 0) 28%),
+        var(--bg-color);
     color: var(--secondary-blue);
     line-height: 1.7;
 }
@@ -44,7 +47,7 @@ h2,
 h3,
 .nav-menu,
 .pub-title,
-.venue-badge,
+.venue-chip,
 .role,
 .uni {
     font-family: 'Inter', sans-serif;
@@ -58,6 +61,13 @@ a {
 
 a:hover {
     color: var(--accent-hover);
+}
+
+a:focus-visible,
+button:focus-visible {
+    outline: 2px solid var(--accent-color);
+    outline-offset: 2px;
+    border-radius: 4px;
 }
 
 /* 自定义滚动条样式 */
@@ -196,6 +206,11 @@ a:hover {
 .section {
     margin-bottom: 70px;
     animation: fadeIn 0.8s ease-out;
+    padding: 28px 30px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04);
 }
 
 .section:last-of-type {
@@ -235,6 +250,11 @@ a:hover {
     color: var(--primary-blue);
 }
 
+.bio-content p {
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
 /* ==========================================================================
    4. 组件样式 (Components)
    ========================================================================== */
@@ -264,6 +284,14 @@ a:hover {
     border-radius: 8px;
 }
 
+.news-window {
+    max-height: 360px;
+}
+
+.students-window {
+    max-height: 920px;
+}
+
 .timeline {
     list-style: none;
     padding: 0;
@@ -291,13 +319,21 @@ a:hover {
     color: var(--text-muted);
 }
 
-.venue-badge {
-    margin-left: 5px;
-    padding: 1px 6px;
-    background: #e0f2fe;
-    color: #0369a1;
-    font-size: 0.8rem;
-    border-radius: 4px;
+.timeline .text {
+    flex: 1;
+    line-height: 1.72;
+}
+
+.news-paper-title {
+    font-weight: 700;
+    color: var(--primary-blue);
+}
+
+.news-venue-inline {
+    color: var(--accent-color);
+    font-style: italic;
+    font-weight: 600;
+    letter-spacing: 0.01em;
 }
 
 /* 4.2 履历时间轴 (Experience) */
@@ -363,9 +399,15 @@ a:hover {
 .pub-title {
     font-weight: 600;
     margin-bottom: 5px;
+    color: var(--accent-color);
 }
 
 .pub-title a {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+.pub-title-text {
     color: var(--accent-color);
     font-weight: 600;
 }
@@ -375,17 +417,20 @@ a:hover {
     font-weight: 700;
 }
 
-.venue-tag {
-    display: none;
-}
-
-.venue-tag-prefix {
-    color: #a80000;
-    /* 深红色，与截图一致 */
+.venue-chip {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 2px 10px 2px 8px;
+    border-radius: 3px;
+    background: #fff1f2;
+    color: #9f1239;
+    border: 1px solid #fecdd3;
+    border-left: 4px solid #dc2626;
+    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.14);
     font-weight: 800;
-    /* 极粗 */
-    margin-right: 8px;
-    /* 与标题保持间距 */
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     font-family: 'Inter', sans-serif;
 }
 
@@ -411,6 +456,47 @@ a:hover {
     font-size: 0.75rem;
     border: 1px solid #fecaca;
     border-radius: 4px;
+}
+
+.pub-section-block {
+    margin-top: 20px;
+}
+
+.pub-section-block h3 {
+    margin-bottom: 12px;
+}
+
+.pub-list-container {
+    padding: 2px 0 0;
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+
+.pub-details {
+    flex: 1;
+}
+
+.pub-authors {
+    color: var(--secondary-blue);
+    font-size: 0.9rem;
+}
+
+.pub-venue {
+    margin-top: 2px;
+    color: var(--text-muted);
+    font-size: 0.88rem;
+}
+
+.pub-links {
+    margin-top: 4px;
+}
+
+.no-data {
+    margin: 0;
+    color: var(--text-muted);
+    font-style: italic;
 }
 
 /* 4.4 奖项与荣誉 (Awards) */
@@ -457,6 +543,31 @@ a:hover {
     color: var(--text-muted);
 }
 
+.styled-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.styled-list li {
+    margin-bottom: 14px;
+    padding: 12px 14px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background: #fcfdff;
+}
+
+.grant-no {
+    display: inline-block;
+    margin-left: 8px;
+    padding: 1px 8px;
+    border-radius: 999px;
+    background: #ecfeff;
+    color: #0f766e;
+    font-size: 0.78rem;
+    font-family: 'Inter', sans-serif;
+}
+
 /* 4.5 服务与学术团体 (Services) */
 .services-grid-top {
     display: grid;
@@ -484,12 +595,34 @@ a:hover {
     margin-bottom: 0;
 }
 
+.full-width {
+    width: 100%;
+}
+
+.service-sub-section+.service-sub-section {
+    margin-top: 15px;
+}
+
+.text-muted {
+    color: var(--text-muted);
+}
+
 /* 4.6 学生与校友 (Students & Alumni) */
 .people-grid {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 15px;
+}
+
+.student-group+.student-group {
+    margin-top: 26px;
+}
+
+.student-group h3 {
+    margin: 0;
+    font-size: 1.08rem;
+    color: var(--primary-blue);
 }
 
 .person-tag {
@@ -502,6 +635,22 @@ a:hover {
     font-size: 0.85rem;
     transition: 0.2s;
     margin-bottom: 5px;
+}
+
+.student-name {
+    font-weight: 600;
+    color: var(--primary-blue);
+}
+
+.tag-year,
+.tag-meta {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+}
+
+.supervisor-info {
+    color: var(--accent-color);
+    font-size: 0.78rem;
 }
 
 .person-tag:hover {
@@ -537,20 +686,17 @@ a:hover {
 }
 
 .footer {
-    padding-top: 10px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    font-size: 0.7rem;
-    color: #64748b;
+    margin-top: 12px;
+    padding: 18px 6px 4px;
+    border-top: 1px solid var(--border-color);
+    font-size: 0.8rem;
+    color: var(--text-muted);
     text-align: center;
 }
 
 /* ==========================================================================
    5. 响应式布局 (Mobile Responsive)
    ========================================================================== */
-.mobile-footer {
-    display: none;
-}
-
 @media (max-width: 900px) {
     body {
         flex-direction: column;
@@ -574,16 +720,12 @@ a:hover {
         padding: 30px 20px;
     }
 
-    .services-grid-top {
-        grid-template-columns: 1fr;
+    .section {
+        padding: 22px 18px;
+        margin-bottom: 32px;
     }
 
-    .mobile-footer {
-        display: block;
-        padding: 20px;
-        text-align: center;
-        font-size: 0.8rem;
-        color: var(--text-muted);
-        border-top: 1px solid var(--border-color);
+    .services-grid-top {
+        grid-template-columns: 1fr;
     }
 }

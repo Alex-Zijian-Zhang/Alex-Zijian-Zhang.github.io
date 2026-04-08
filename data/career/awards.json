@@ -1,0 +1,24 @@
+{
+  "awards": [
+    "Best Paper Award, IWQoS 2017",
+    "Best Paper Award, ICA3PP 2020",
+    "Best Paper Award, IEEE ICC 2024"
+  ],
+  "gallery": [
+    {
+      "src": "assets/images/awards/iwqos-best-paper.jpg",
+      "alt": "IWQoS Award",
+      "caption": "IWQoS 2017"
+    },
+    {
+      "src": "assets/images/awards/ica3pp-best-paper.jpg",
+      "alt": "ICA3PP Award",
+      "caption": "ICA3PP 2020"
+    },
+    {
+      "src": "assets/images/awards/icc-best-award.jpg",
+      "alt": "ICC Award",
+      "caption": "ICC 2024"
+    }
+  ]
+}

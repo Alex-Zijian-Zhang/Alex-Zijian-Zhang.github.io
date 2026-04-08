@@ -1,0 +1,37 @@
+{
+  "avatar": {
+    "src": "assets/images/profile/zijian-zhang.jpeg",
+    "alt": "Zijian Zhang"
+  },
+  "name": "Zijian Zhang",
+  "role": "Professor",
+  "university": "Beijing Institute of Technology",
+  "socialLinks": [
+    {
+      "href": "mailto:zhangzijian@bit.edu.cn",
+      "title": "Email",
+      "icon": "fas fa-envelope",
+      "external": false
+    },
+    {
+      "href": "https://scholar.google.com/citations?user=bKTCeXMAAAAJ&hl=zh-CN&oi=ao",
+      "title": "Google Scholar",
+      "icon": "fas fa-graduation-cap",
+      "external": true
+    },
+    {
+      "href": "https://dblp.org/pid/43/6524-1.html",
+      "title": "DBLP",
+      "icon": "fas fa-book",
+      "external": true
+    },
+    {
+      "href": "https://cst.bit.edu.cn/szdw/jsml/bssds/cea4904e7e274a07a460f93c917a0216.htm",
+      "title": "Homepage",
+      "icon": "fas fa-home",
+      "external": true
+    }
+  ],
+  "copyright": "© 2026 Zijian Zhang.",
+  "footer": "© 2026 Zijian Zhang. Last updated: Apr 2026."
+}
