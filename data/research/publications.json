@@ -1,30 +1,8 @@
 {
   "items": [
     {
-      "Authors": "Zhiyuan Wei, Jing Sun, Zijian Zhang*, Zhe Hou, Xianhao Zhang, Meng Li*, Yuqiang Sun, Dao Yuan, Yang Liu, Chunmiao Li, Mingchao Wan, Jin Dong",
-      "Title": "HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing",
-      "JournalFullName": "IEEE Transactions on Information Forensics and Security",
-      "JournalShortName": "TIFS",
-      "Link": "",
-      "CCF": "CCF A, CORE A",
-      "Type": "Journal",
-      "PublicationDetail": "Accepted",
-      "PDFFile": ""
-    },
-    {
-      "Authors": "Zhaoqi Wang, Daqing He, Zijian Zhang*, Ye Liu, Jiamou Liu, Zhirui Zeng, Zhan Qin, Zhen Li, Xin Li, Hongwei Yao, Jincheng An, Yong Liu*, Yi Li, Qi Sun, Xiulei Liu, Liehuang Zhu",
-      "Title": "Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework",
-      "JournalFullName": "Proceedings of the ACM Web Conference 2026",
-      "JournalShortName": "WWW",
-      "Link": "",
-      "CCF": "CCF A, CORE A",
-      "Type": "Conference",
-      "PublicationDetail": "Accepted",
-      "PDFFile": ""
-    },
-    {
-      "Authors": "Xuyang Liu, Zijian Zhang*, Zhen Li, Haibo Sun, Meng Li*, Jing Sun, Jiamou Liu, Yong Liu, Lei Xu, Jincheng An, Qi Sun, Liang Huang, Mauro Conti, Liehuang Zhu",
-      "Title": "Hydra: Support Dynamic BFT with Weaker Assumptions and Explicit Request Handling",
+      "Authors": "Yihan Wang, Zijian Zhang*, Zhizhen Qin, Zhaoqi Wang, Zhen Li, Liehuang Zhu",
+      "Title": "SARW: A Secure Semantic Watermarking Framework for Data Ownership and Attribution in RAG Knowledge Bases",
       "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
       "JournalShortName": "TDSC",
       "Link": "",
@@ -32,6 +10,50 @@
       "Type": "Journal",
       "PublicationDetail": "Accepted",
       "PDFFile": ""
+    },
+    {
+      "Authors": "Zhen Li, Zijian Zhang*, Pengbo Wang, Xuyang Liu*, Jing Sun",
+      "Title": "Delay-Attack-Resistant Byzantine Fault-Tolerant Secret Sharing for Distributed Privacy-Preserving Machine Learning",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
+      "Authors": "Zhiyuan Wei, Jing Sun, Zijian Zhang*, Zhe Hou, Xianhao Zhang, Meng Li*, Yuqiang Sun, Dao Yuan, Yang Liu, Chunmiao Li, Mingchao Wan, Jin Dong",
+      "Title": "HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing",
+      "JournalFullName": "IEEE Transactions on Information Forensics and Security",
+      "JournalShortName": "TIFS",
+      "Link": "https://ieeexplore.ieee.org/document/11480205",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "2026, 21:4446-4459",
+      "PDFFile": "HKT-SmartAudit_Distilling_Lightweight_Models_for_Smart_Contract_Auditing.pdf"
+    },
+    {
+      "Authors": "Zhaoqi Wang, Daqing He, Zijian Zhang*, Ye Liu, Jiamou Liu, Zhirui Zeng, Zhan Qin, Zhen Li, Xin Li, Hongwei Yao, Jincheng An, Yong Liu*, Yi Li, Qi Sun, Xiulei Liu, Liehuang Zhu",
+      "Title": "Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework",
+      "JournalFullName": "Proceedings of the ACM Web Conference 2026",
+      "JournalShortName": "WWW",
+      "Link": "https://dl.acm.org/doi/10.1145/3774904.3792200",
+      "CCF": "CCF A, CORE A",
+      "Type": "Conference",
+      "PublicationDetail": "2026: 2661-2672",
+      "PDFFile": "Combating_Knowledge_Corruption_in_Agent_Systems.pdf"
+    },
+    {
+      "Authors": "Xuyang Liu, Zijian Zhang*, Zhen Li, Haibo Sun, Meng Li*, Jing Sun, Jiamou Liu, Yong Liu, Lei Xu, Jincheng An, Qi Sun, Liang Huang, Mauro Conti, Liehuang Zhu",
+      "Title": "Hydra: Support Dynamic BFT with Weaker Assumptions and Explicit Request Handling",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "https://ieeexplore.ieee.org/document/11311559",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "2026, 23(3): 4481-4497",
+      "PDFFile": "Hydra_Support_Dynamic_BFT_With_Weaker_Assumptions_and_Explicit_Request_Handling.pdf"
     },
     {
       "Authors": "Xuyang Liu, Zijian Zhang*, Zhen Li, Jiahang Sun, Jiamou Liu, Peng Jiang*",
@@ -386,15 +408,59 @@
       "PDFFile": "ASAP_An_Anonymous_Smart-Parking_and_Payment_Scheme_in_Vehicular_Networks.pdf"
     },
     {
+      "Authors": "Qiao Li, Xiaoya Ma, Zijun Zhang*, Jing Chen, Kun He, Ruiying Du, Zijian Zhang, Cong Wu, Yang Liu",
+      "Title": "Silent Poisoning: A Stealthy and Unified Dual-Space Framework for VFL Backdoor Attacks",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
+      "Authors": "Yuchao Hou, Jiazhe Jiao, Jie Wang, Guangyin Jin, Zijian Zhang, Xiaoyu Xia, Zhiquan Liu,  Minglu Li, Youliang Tian*",
+      "Title": "Federated Analytics Assisted Semantic Alignment for Secure and Privacy-preserving Image Classification",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
+      "Authors": "Ziyi Lin, Peng Jiang*, Zijian Zhang, Liehuang Zhu",
+      "Title": "BAVote: Blockchain-based Electronic Voting System with Privacy and Accountability",
+      "JournalFullName": "IEEE Transactions on Information Forensics and Security",
+      "JournalShortName": "TIFS",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
+      "Authors": "Zijie Pan, Zuobin Ying, Yajie Wang*, Yani Wang, Zijian Zhang, Wanlei Zhou, Liehuang Zhu",
+      "Title": "Robust Watermarking for Federated Diffusion Models with Unlearning-Enhanced Redundancy",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "https://ieeexplore.ieee.org/document/11036162",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Early Access",
+      "PDFFile": ""
+    },
+    {
       "Authors": "Ruobing Wang, Xin Li*, Yangchuan Wang, Zijian Zhang, Mingzhong Wang",
       "Title": "Generative Branching for Mixed-Integer Linear Programming",
       "JournalFullName": "Proceedings of the 40th AAAI Conference on Artificial Intelligence",
       "JournalShortName": "AAAI",
-      "Link": "",
+      "Link": "https://ojs.aaai.org/index.php/AAAI/article/view/38450",
       "CCF": "CCF A, CORE A*",
       "Type": "Conference",
       "PublicationDetail": "2",
-      "PDFFile": ""
+      "PDFFile": "Generative_Branching_for_Mixed-Integer_Linear_Programming.pdf"
     },
     {
       "Authors": "Wenti Yang, Xuan Li, Meng Li, Zijian Zhang, Zhitao Guan*, Liehuang Zhu",

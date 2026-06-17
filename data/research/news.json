@@ -7,15 +7,27 @@
   "items": [
     {
       "year": "2026",
+      "date": "June. 2026",
+      "text": "Congratulations to Yihan's paper \"SARW: A Secure Semantic Watermarking Framework for Data Ownership and Attribution in RAG Knowledge Bases\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2026",
+      "date": "June. 2026",
+      "text": "Congratulations to Zhen Li's paper \"Delay-Attack-Resistant Byzantine Fault-Tolerant Secret Sharing for Distributed Privacy-Preserving Machine Learning\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2026",
       "date": "Apr. 2026",
-      "text": "Congratulations to Zhiyuan's paper \"HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing\" accepted by TIFS.",
-      "venue": "TIFS"
+      "text": "Congratulations to Zhiyuan's paper \"HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing\" accepted by IEEE TIFS.",
+      "venue": "IEEE TIFS"
     },
     {
       "year": "2026",
       "date": "Jan. 2026",
-      "text": "Congratulations to Zhaoqi's paper \"Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework\" accepted by WWW.",
-      "venue": "WWW"
+      "text": "Congratulations to Zhaoqi's paper \"Combating Knowledge Corruption in Agent Systems: A Byzantine-Tolerant Secure Collaborative RAG Framework\" accepted by ACM WWW.",
+      "venue": "ACM WWW"
     },
     {
       "year": "2025",
