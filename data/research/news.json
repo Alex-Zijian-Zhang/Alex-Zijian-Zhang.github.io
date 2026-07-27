@@ -7,6 +7,12 @@
   "items": [
     {
       "year": "2026",
+      "date": "Jul. 2026",
+      "text": "Congratulations to Jiahang's paper \"When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication\" accepted by IEEE TSC.",
+      "venue": "IEEE TSC"
+    },
+    {
+      "year": "2026",
       "date": "June. 2026",
       "text": "Congratulations to Yihan's paper \"SARW: A Secure Semantic Watermarking Framework for Data Ownership and Attribution in RAG Knowledge Bases\" accepted by IEEE TDSC.",
       "venue": "IEEE TDSC"

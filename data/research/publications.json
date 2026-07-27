@@ -1,7 +1,18 @@
 {
   "items": [
     {
-      "Authors": "Yihan Wang, Zijian Zhang*, Zhizhen Qin, Zhaoqi Wang, Zhen Li, Liehuang Zhu",
+      "Authors": "Jihang Sun, Yan Wu, Zijian Zhang*, Meng Li, Mengyu Wang, Yao Xiao, Liehuang Zhu, Chengxiang Si",
+      "Title": "When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication",
+      "JournalFullName": "IEEE Transactions on Services Computing",
+      "JournalShortName": "TSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A*",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
+      "Authors": "Yihan Wang, Zijian Zhang*, Zhizhen Qin*, Zhaoqi Wang, Zhen Li, Liehuang Zhu",
       "Title": "SARW: A Secure Semantic Watermarking Framework for Data Ownership and Attribution in RAG Knowledge Bases",
       "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
       "JournalShortName": "TDSC",
