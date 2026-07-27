@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "Authors": "Jihang Sun, Yan Wu, Zijian Zhang*, Meng Li, Mengyu Wang, Yao Xiao, Liehuang Zhu, Chengxiang Si",
+      "Authors": "Jihang Sun, Yan Wu, Zijian Zhang*, Meng Li*, Mengyu Wang, Yao Xiao, Liehuang Zhu, Chengxiang Si",
       "Title": "When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication",
       "JournalFullName": "IEEE Transactions on Services Computing",
       "JournalShortName": "TSC",
