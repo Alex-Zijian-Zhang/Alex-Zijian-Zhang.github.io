@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Cheng-Hao Cai, Qian Liu, Mengze Li, Zijian Zhang*, Jin Song Dong",
+      "Title": "Towards Fully Automated Medical Imaging Code Generation via Validation-Based Context Engineering",
+      "JournalFullName": "Proceeding of 2026 International Conference on Automated Software Engineering",
+      "JournalShortName": "ASE",
+      "Link": "",
+      "CCF": "CCF A, CORE A*",
+      "Type": "Conference",
+      "PublicationDetail": "Accepted",
+      "PDFFile": "Towards_Fully_Automated_Medical_Imaging_Code_Generation_via_Validation-Based_Context_Engineering.pdf"
+    },
+    {
       "Authors": "Jihang Sun, Yan Wu, Zijian Zhang*, Meng Li*, Mengyu Wang, Yao Xiao, Liehuang Zhu, Chengxiang Si",
       "Title": "When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication",
       "JournalFullName": "IEEE Transactions on Services Computing",
