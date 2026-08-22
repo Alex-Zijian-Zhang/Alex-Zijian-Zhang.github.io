@@ -7,6 +7,12 @@
   "items": [
     {
       "year": "2026",
+      "date": "Aug. 2026",
+      "text": "Congratulations to Xuyang's paper \"ROPSCON: Linear BFT From Schnorr Threshold Signatures\" accepted by IEEE TC.",
+      "venue": "IEEE TC"
+    },
+    {
+      "year": "2026",
       "date": "Jul. 2026",
       "text": "Congratulations to Jiahang's paper \"When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication\" accepted by IEEE TSC.",
       "venue": "IEEE TSC"

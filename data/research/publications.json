@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Authors": "Xuyang Liu, Zijian Zhang*, Haibin Zhang, Jiamou Liu, Meng Li, Zhen Li, Mengmeng Zhou, Wei Shen, Peng Jiang, Cong Guo, Liehuang Zhu",
+      "Title": "ROPSCON: Linear BFT From Schnorr Threshold Signatures",
+      "JournalFullName": "IEEE Transactions on Computers",
+      "JournalShortName": "TC",
+      "Link": "IEEE Transactions on Computers",
+      "CCF": "CCF A, CORE A*",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
       "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Cheng-Hao Cai, Qian Liu, Mengze Li, Zijian Zhang*, Jin Song Dong",
       "Title": "Towards Fully Automated Medical Imaging Code Generation via Validation-Based Context Engineering",
       "JournalFullName": "Proceeding of 2026 International Conference on Automated Software Engineering",
@@ -45,7 +56,7 @@
       "PDFFile": ""
     },
     {
-      "Authors": "Zhiyuan Wei, Jing Sun, Zijian Zhang*, Zhe Hou, Xianhao Zhang, Meng Li*, Yuqiang Sun, Dao Yuan, Yang Liu, Chunmiao Li, Mingchao Wan, Jin Dong",
+      "Authors": "Zhiyuan Wei, Jing Sun, Zijian Zhang*, Zhe Hou, Xianhao Zhang, Meng Li*, Yuqiang Sun, Daoyuan Wu, Yang Liu, Chunmiao Li, Mingchao Wan, Jin Dong",
       "Title": "HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing",
       "JournalFullName": "IEEE Transactions on Information Forensics and Security",
       "JournalShortName": "TIFS",
@@ -86,7 +97,7 @@
       "CCF": "CCF A, CORE A*",
       "Type": "Conference",
       "PublicationDetail": "Accepted",
-      "PDFFile": ""
+      "PDFFile": "Reputation-Based_Leader_Election_under_Partial_Synchrony_Towards_a_Protocol-Independent_Abstraction_with_Enhanced_Guarantees.pdf"
     },
     {
       "Authors": "Yan Wu, Cong Wu, Yebo Feng, Lin Li, Xinyue Zhang, Zhen Li, Jiahang Sun, Zijian Zhang*, Jincheng An, Yong Liu*, Zhitao Guan, Liehuang Zhu",
@@ -430,6 +441,17 @@
       "PDFFile": "ASAP_An_Anonymous_Smart-Parking_and_Payment_Scheme_in_Vehicular_Networks.pdf"
     },
     {
+      "Authors": "Zhen Liu, Yi Zhao*, , Zijian Zhang, Cong Wu, Liehuang Zhu",
+      "Title": "Highly Reliable Anonymous Cloud Synchronization",
+      "JournalFullName": "IEEE Transactions on Information Forensics and Security",
+      "JournalShortName": "TIFS",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
       "Authors": "Qiao Li, Xiaoya Ma, Zijun Zhang*, Jing Chen, Kun He, Ruiying Du, Zijian Zhang, Cong Wu, Yang Liu",
       "Title": "Silent Poisoning: A Stealthy and Unified Dual-Space Framework for VFL Backdoor Attacks",
       "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
@@ -456,10 +478,21 @@
       "Title": "BAVote: Blockchain-based Electronic Voting System with Privacy and Accountability",
       "JournalFullName": "IEEE Transactions on Information Forensics and Security",
       "JournalShortName": "TIFS",
-      "Link": "",
+      "Link": "https://ieeexplore.ieee.org/document/11553240",
       "CCF": "CCF A, CORE A",
       "Type": "Journal",
-      "PublicationDetail": "Accepted",
+      "PublicationDetail": "2026, 21: 5499-5513",
+      "PDFFile": "BAVote_Blockchain-Based_Electronic_Voting_System_With_Privacy_and_Accountability.pdf"
+    },
+    {
+      "Authors": "Mingshun Luo, Haolei He, Wenti Yang, Meng Li, Longfei Wu, Zijian Zhang, Zhitao Guan*",
+      "Title": "PrivTI: Efficient End-to-End Privacy-Preserving Inference for Transformer-based Models in MLaaS",
+      "JournalFullName": "IEEE Transactions on Services Computing",
+      "JournalShortName": "TSC",
+      "Link": "https://ieeexplore.ieee.org/document/11482887/",
+      "CCF": "CCF A, CORE A*",
+      "Type": "Journal",
+      "PublicationDetail": "Early Access",
       "PDFFile": ""
     },
     {
