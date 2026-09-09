@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "Authors": "Mengyu Wang, Chengxiang Si, Zijian Zhang*, Yi Zhao, Peishuai Sun, Weixuan Mao, Wei Liang",
+      "Title": "Behavioral Evidence-Based Hierarchical Decision Refinement for Encrypted Malicious Traffic Classification in Decentralized Data Circulation",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
+    {
       "Authors": "Xuyang Liu, Zijian Zhang*, Haibin Zhang, Jiamou Liu, Meng Li, Zhen Li, Mengmeng Zhou, Wei Shen, Peng Jiang, Cong Guo, Liehuang Zhu",
       "Title": "ROPSCON: Linear BFT From Schnorr Threshold Signatures",
       "JournalFullName": "IEEE Transactions on Computers",

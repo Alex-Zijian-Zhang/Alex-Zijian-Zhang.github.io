@@ -7,6 +7,12 @@
   "items": [
     {
       "year": "2026",
+      "date": "Sept. 2026",
+      "text": "Congratulations to Mengyu's paper \"Behavioral Evidence-Based Hierarchical Decision Refinement for Encrypted Malicious Traffic Classification in Decentralized Data Circulation\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
+    {
+      "year": "2026",
       "date": "Aug. 2026",
       "text": "Congratulations to Xuyang's paper \"ROPSCON: Linear BFT From Schnorr Threshold Signatures\" accepted by IEEE TC.",
       "venue": "IEEE TC"
