@@ -5,6 +5,12 @@
     "email": "zhangzijian@bit.edu.cn"
   },
   "items": [
+     {
+      "year": "2026",
+      "date": "Sept. 2026",
+      "text": "Congratulations to Zhenyu's paper \"CryptoFormer: Multi-Currency Traffic Classification via Two-Stage Transformer Architecture\" accepted by IEEE TDSC.",
+      "venue": "IEEE TDSC"
+    },
     {
       "year": "2026",
       "date": "Sept. 2026",

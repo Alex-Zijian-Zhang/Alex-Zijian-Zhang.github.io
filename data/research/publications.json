@@ -1,5 +1,16 @@
 {
   "items": [
+     {
+      "Authors": "Zhenyu Guo, Zijian Zhang*, Yan Wu, Jiahang Sun, Jiamou Liu, Xin Li, Yajie Wang, Guoqiang Zhang, Lei Zhang*, Liehuang Zhu",
+      "Title": "CryptoFormer: Multi-Currency Traffic Classification via Two-Stage Transformer Architecture",
+      "JournalFullName": "IEEE Transactions on Dependable and Secure Computing",
+      "JournalShortName": "TDSC",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
     {
       "Authors": "Mengyu Wang, Chengxiang Si, Zijian Zhang*, Yi Zhao, Peishuai Sun, Weixuan Mao, Wei Liang",
       "Title": "Behavioral Evidence-Based Hierarchical Decision Refinement for Encrypted Malicious Traffic Classification in Decentralized Data Circulation",
