@@ -23,25 +23,25 @@
       "PDFFile": ""
     },
     {
-      "Authors": "Xuyang Liu, Zijian Zhang*, Haibin Zhang, Jiamou Liu, Meng Li, Zhen Li, Mengmeng Zhou, Wei Shen, Peng Jiang, Cong Guo, Liehuang Zhu",
+      "Authors": "Xuyang Liu, Zijian Zhang*, Haibin Zhang, Jiamou Liu, Meng Li, Zhen Li, Mengmeng Zhou, Wei Shen, Peng Jiang*, Cong Guo, Liehuang Zhu",
       "Title": "ROPSCON: Linear BFT From Schnorr Threshold Signatures",
       "JournalFullName": "IEEE Transactions on Computers",
       "JournalShortName": "TC",
       "Link": "IEEE Transactions on Computers",
       "CCF": "CCF A, CORE A*",
       "Type": "Journal",
-      "PublicationDetail": "Accepted",
-      "PDFFile": ""
+      "PublicationDetail": "2026, 76(11): 3798-3812",
+      "PDFFile": "ROPSCON_Linear_BFT_From_Schnorr_Threshold_Signatures.pdf"
     },
     {
       "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Cheng-Hao Cai, Qian Liu, Mengze Li, Zijian Zhang*, Jin Song Dong",
       "Title": "Towards Fully Automated Medical Imaging Code Generation via Validation-Based Context Engineering",
       "JournalFullName": "Proceeding of 2026 International Conference on Automated Software Engineering",
       "JournalShortName": "ASE",
-      "Link": "",
+      "Link": "https://dl.acm.org/doi/10.1145/3832783.3834399",
       "CCF": "CCF A, CORE A*",
       "Type": "Conference",
-      "PublicationDetail": "Accepted",
+      "PublicationDetail": "2026: 867–879.",
       "PDFFile": "Towards_Fully_Automated_Medical_Imaging_Code_Generation_via_Validation-Based_Context_Engineering.pdf"
     },
     {
@@ -118,7 +118,7 @@
       "Link": "",
       "CCF": "CCF A, CORE A*",
       "Type": "Conference",
-      "PublicationDetail": "Accepted",
+      "PublicationDetail": "2026: 1-10",
       "PDFFile": "Reputation-Based_Leader_Election_under_Partial_Synchrony_Towards_a_Protocol-Independent_Abstraction_with_Enhanced_Guarantees.pdf"
     },
     {
@@ -140,7 +140,7 @@
       "Link": "https://dl.acm.org/doi/10.1145/3785364",
       "CCF": "CCF A, CORE A*",
       "Type": "Journal",
-      "PublicationDetail": "Early Access",
+      "PublicationDetail": "2026, 35(8): 1-43",
       "PDFFile": "smartauditflow.pdf"
     },
     {
@@ -461,6 +461,17 @@
       "Type": "Journal",
       "PublicationDetail": "2020, 17(4): 703-715",
       "PDFFile": "ASAP_An_Anonymous_Smart-Parking_and_Payment_Scheme_in_Vehicular_Networks.pdf"
+    },
+    {
+      "Authors": "Xingkai Kang, Jiang Xie, Tao Yin, Hongbo Xu, Peishuai Sun, Zijian Zhang, Liehuang Zhu, Shuhao Li*, Xiaochun Yun*",
+      "Title": "DualGuard: An Adaptive Detection Framework for Concurrent Malicious and Normality Drifts in Network Traffic",
+      "JournalFullName": "IEEE Transactions on Information Forensics and Security",
+      "JournalShortName": "TIFS",
+      "Link": "",
+      "CCF": "CCF A, CORE A",
+      "Type": "Journal",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
     },
     {
       "Authors": "Zhen Liu, Yi Zhao, Lei Kang, Zijian Zhang, Yinggui Wang, Liehuang Zhu",
