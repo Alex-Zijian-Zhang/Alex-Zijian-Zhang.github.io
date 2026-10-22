@@ -5,7 +5,13 @@
     "email": "zhangzijian@bit.edu.cn"
   },
   "items": [
-     {
+    {
+      "year": "2026",
+      "date": "Oct. 2026",
+      "text": "Paper \"Validation-Gated ML Pipeline Synthesis with Expert-Grounded Self-Evolving Skills\" collaborated with University of Auckland accepted by IEEE/ACM ICSE.",
+      "venue": "IEEE/ACM ICSE"
+    },
+    {
       "year": "2026",
       "date": "Sept. 2026",
       "text": "Congratulations to Zhenyu's paper \"CryptoFormer: Multi-Currency Traffic Classification via Two-Stage Transformer Architecture\" accepted by IEEE TDSC.",

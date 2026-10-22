@@ -1,5 +1,16 @@
 {
   "items": [
+    {
+      "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Mengze Li, Qian Liu, Cheng-Hao Cai, Zijian Zhang*, Xinw Wang, Gillian Dobbie, Jin Song Dong",
+      "Title": "Validation-Gated ML Pipeline Synthesis with Expert-Grounded Self-Evolving Skills",
+      "JournalFullName": "Proceeding of 46th IEEE/ACM International Conference on Software Engineering",
+      "JournalShortName": "ICSE",
+      "Link": "",
+      "CCF": "CCF A, CORE A*",
+      "Type": "Conference",
+      "PublicationDetail": "Accepted",
+      "PDFFile": ""
+    },
      {
       "Authors": "Zhenyu Guo, Zijian Zhang*, Yan Wu, Jiahang Sun, Jiamou Liu, Xin Li, Yajie Wang, Guoqiang Zhang, Lei Zhang*, Liehuang Zhu",
       "Title": "CryptoFormer: Multi-Currency Traffic Classification via Two-Stage Transformer Architecture",
@@ -49,10 +60,10 @@
       "Title": "When Blockchain Meets Tor: Enabling Automatically Distributed Blind Choosing of Relay Nodes in Anonymous Communication",
       "JournalFullName": "IEEE Transactions on Services Computing",
       "JournalShortName": "TSC",
-      "Link": "",
+      "Link": "https://ieeexplore.ieee.org/document/11610657",
       "CCF": "CCF A, CORE A*",
       "Type": "Journal",
-      "PublicationDetail": "Accepted",
+      "PublicationDetail": "2026, 19(5): 3661 - 3677",
       "PDFFile": ""
     },
     {
@@ -85,7 +96,7 @@
       "Link": "https://ieeexplore.ieee.org/document/11480205",
       "CCF": "CCF A, CORE A",
       "Type": "Journal",
-      "PublicationDetail": "2026, 21:4446-4459",
+      "PublicationDetail": "2026, 21: 4446-4459",
       "PDFFile": "HKT-SmartAudit_Distilling_Lightweight_Models_for_Smart_Contract_Auditing.pdf"
     },
     {
@@ -478,11 +489,11 @@
       "Title": "Highly Reliable Anonymous Cloud Synchronization",
       "JournalFullName": "IEEE Transactions on Information Forensics and Security",
       "JournalShortName": "TIFS",
-      "Link": "",
+      "Link": "https://ieeexplore.ieee.org/document/11673954",
       "CCF": "CCF A, CORE A",
       "Type": "Journal",
-      "PublicationDetail": "Accepted",
-      "PDFFile": ""
+      "PublicationDetail": "2026, 21: 9064-9079",
+      "PDFFile": "Highly_Reliable_Anonymous_Cloud_Synchronization.pdf"
     },
     {
       "Authors": "Qiao Li, Xiaoya Ma, Zijun Zhang*, Jing Chen, Kun He, Ruiying Du, Zijian Zhang, Cong Wu, Yang Liu",
