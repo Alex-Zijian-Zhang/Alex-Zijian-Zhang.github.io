@@ -4,24 +4,6 @@
       "title": "Current Ph.D. Students",
       "items": [
         {
-          "name": "Yan Wu",
-          "year": "2020",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Zhenyu Guo",
-          "year": "2020",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
           "name": "Jiahang Sun",
           "year": "2020",
           "meta": "",
@@ -36,16 +18,7 @@
           "meta": "",
           "supervisor": "co-supervisor",
           "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Zhiyuan Wei",
-          "year": "2021",
-          "meta": "",
-          "supervisor": "",
-          "destination": "",
-          "logo": "",
+          "logo": "", 
           "logoAlt": ""
         },
         {
@@ -202,13 +175,13 @@
           "logoAlt": ""
         },
         {
-          "name": "Ziang Zhang",
+          "name": "Ziang Yang",
           "year": "2024",
-          "meta": "",
+          "meta": "@UoA(Dual Student)",
           "supervisor": "",
           "destination": "",
-          "logo": "",
-          "logoAlt": ""
+          "logo": "assets/images/logos/uoa-logo.png",
+          "logoAlt": "UoA"
         },
         {
           "name": "Yutong Zhao",
@@ -242,69 +215,6 @@
     {
       "title": "Current Master Students",
       "items": [
-        {
-          "name": "Yunting Li",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Xiaoxuan Yang",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Bochao Li",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Aohang Liu",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Xinyue Zhang",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Haibo Sun",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
-        {
-          "name": "Yinghao Tang",
-          "year": "2023",
-          "meta": "",
-          "supervisor": "co-supervisor",
-          "destination": "",
-          "logo": "",
-          "logoAlt": ""
-        },
         {
           "name": "Xiaoxin Huang",
           "year": "2024",
@@ -458,8 +368,35 @@
           "name": "Xin Lu",
           "year": "",
           "meta": "2024",
-          "supervisor": "co-supervisor",
+          "supervisor": "",
           "destination": "→ State Radio Regulation of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yan Wu",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ First Research Institute of the Ministry of Public Security of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhenyu Guo",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Electric Power Research Institute",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Zhiyuan Wei",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "",
+          "destination": "→ Lecture @ Tianjin University",
           "logo": "",
           "logoAlt": ""
         }
@@ -924,6 +861,96 @@
           "meta": "2025",
           "supervisor": "",
           "destination": "→ Fudan University",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yunting Li",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xiaoxuan Yang",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Financial Technology Center of Agricultural Development Bank of China",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Bochao Li",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ China Wuzhou Engineering Design Group Co., Ltd",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Aohang Liu",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Zhejiang State-owned Capital Operation Co., Ltd",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Xinyue Zhang",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Power Investment Group Digital Technology Co., Ltd",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Haibo Sun",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ State Grid Jiangsu Electric Power Co., Ltd.",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Yinghao Tang",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Qingdao Data Administration",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Wujie Liu",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Meituan",
+          "logo": "",
+          "logoAlt": ""
+        }
+        {
+          "name": "Xufeng Zhang",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Lucerne University of Applied Sciences and Arts",
+          "logo": "",
+          "logoAlt": ""
+        },
+        {
+          "name": "Bo Ran",
+          "year": "2026",
+          "meta": "",
+          "supervisor": "co-supervisor",
+          "destination": "→ Trip.com Group Limited",
           "logo": "",
           "logoAlt": ""
         }

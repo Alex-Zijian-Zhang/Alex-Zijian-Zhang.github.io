@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Mengze Li, Qian Liu, Cheng-Hao Cai, Zijian Zhang*, Xinw Wang, Gillian Dobbie, Jin Song Dong",
+      "Authors": "Zixiao Zhao, Jing Sun, Zhe Hou, Mengze Li, Qian Liu, Cheng-Hao Cai, Zijian Zhang, Xinw Wang, Gillian Dobbie, Jin Song Dong",
       "Title": "Validation-Gated ML Pipeline Synthesis with Expert-Grounded Self-Evolving Skills",
       "JournalFullName": "Proceeding of 46th IEEE/ACM International Conference on Software Engineering",
       "JournalShortName": "ICSE",
