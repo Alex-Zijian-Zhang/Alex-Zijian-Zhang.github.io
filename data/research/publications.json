@@ -478,11 +478,11 @@
       "Title": "DualGuard: An Adaptive Detection Framework for Concurrent Malicious and Normality Drifts in Network Traffic",
       "JournalFullName": "IEEE Transactions on Information Forensics and Security",
       "JournalShortName": "TIFS",
-      "Link": "",
+      "Link": "https://ieeexplore.ieee.org/document/11740697",
       "CCF": "CCF A, CORE A",
       "Type": "Journal",
-      "PublicationDetail": "Accepted",
-      "PDFFile": ""
+      "PublicationDetail": "2026, 21: 9620-9635",
+      "PDFFile": "DualGuard_An_Adaptive_Detection_Framework_for_Concurrent_Malicious_and_Normality_Drifts_in_Network_Traffic.pdf"
     },
     {
       "Authors": "Zhen Liu, Yi Zhao, Lei Kang, Zijian Zhang, Yinggui Wang, Liehuang Zhu",
@@ -536,8 +536,8 @@
       "Link": "https://ieeexplore.ieee.org/document/11482887/",
       "CCF": "CCF A, CORE A*",
       "Type": "Journal",
-      "PublicationDetail": "Early Access",
-      "PDFFile": ""
+      "PublicationDetail": "2026, 19(5): 3198 - 3211",
+      "PDFFile": "PrivTI_Efficient_End-to-End_Privacy-Preserving_Inference_for_Transformer-Based_Models_in_MLaaS.pdf"
     },
     {
       "Authors": "Zijie Pan, Zuobin Ying, Yajie Wang*, Yani Wang, Zijian Zhang, Wanlei Zhou, Liehuang Zhu",
@@ -558,7 +558,7 @@
       "Link": "https://ojs.aaai.org/index.php/AAAI/article/view/38450",
       "CCF": "CCF A, CORE A*",
       "Type": "Conference",
-      "PublicationDetail": "2",
+      "PublicationDetail": "2025, 40(17): 14352–14360",
       "PDFFile": "Generative_Branching_for_Mixed-Integer_Linear_Programming.pdf"
     },
     {
